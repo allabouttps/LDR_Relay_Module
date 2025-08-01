@@ -25,3 +25,5 @@ Features:
 - Reliable switching using relay
 - Adjustable sensitivity via potentiometer
 - Designed using Proteus 8 PCB tools
+
+Note: This is done on Proteus 8 Professional so , Source files are not uploaded directly . If you want , feel free to ask me.
