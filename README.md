@@ -9,7 +9,6 @@ Components Used:
 - NPN Transistors
 - Relay
 - Diodes
-- Capacitors
 - Potentiometer
 - Resistors
 - LED indicator
